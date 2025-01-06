@@ -1,3 +1,3 @@
-# music  
+# Music App  
 
 Project On Working
